@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vfxo8gDm0Ho4cQv9f1sfT4lGsiXIdppVVhxjAp3Th3WLX3L+yEPnzhw09cA2+5dL920pYtjEpmNUfZY9BXdtqA==",
+  "success": true,
+  "projectFilePath": "C:\\CODE\\Code\\CMPG315\\CMPG315_MODIFIEDCHATAPP\\CMPG315_chatapp_v8\\CMPG315_chatapp\\TCPClient\\TCPClient\\TCPClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berna\\.nuget\\packages\\supersimpletcp\\3.0.10\\supersimpletcp.3.0.10.nupkg.sha512",
+    "C:\\Users\\berna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\berna\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\berna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\berna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

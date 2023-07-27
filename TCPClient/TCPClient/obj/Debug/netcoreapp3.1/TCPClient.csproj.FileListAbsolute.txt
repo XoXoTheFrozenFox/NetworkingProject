@@ -1,0 +1,69 @@
+C:\Users\Tshimbiluni\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.exe
+C:\Users\Tshimbiluni\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.deps.json
+C:\Users\Tshimbiluni\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.runtimeconfig.json
+C:\Users\Tshimbiluni\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.runtimeconfig.dev.json
+C:\Users\Tshimbiluni\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.dll
+C:\Users\Tshimbiluni\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.pdb
+C:\Users\Tshimbiluni\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csproj.AssemblyReference.cache
+C:\Users\Tshimbiluni\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.Form1.resources
+C:\Users\Tshimbiluni\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csproj.GenerateResource.cache
+C:\Users\Tshimbiluni\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tshimbiluni\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.AssemblyInfoInputs.cache
+C:\Users\Tshimbiluni\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.AssemblyInfo.cs
+C:\Users\Tshimbiluni\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Tshimbiluni\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.dll
+C:\Users\Tshimbiluni\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.pdb
+C:\Users\Tshimbiluni\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.genruntimeconfig.cache
+C:\Users\Llayton Titus\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.exe
+C:\Users\Llayton Titus\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.deps.json
+C:\Users\Llayton Titus\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.runtimeconfig.json
+C:\Users\Llayton Titus\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.runtimeconfig.dev.json
+C:\Users\Llayton Titus\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.dll
+C:\Users\Llayton Titus\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.pdb
+C:\Users\Llayton Titus\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\SuperSimpleTcp.dll
+C:\Users\Llayton Titus\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csprojAssemblyReference.cache
+C:\Users\Llayton Titus\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.Form1.resources
+C:\Users\Llayton Titus\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csproj.GenerateResource.cache
+C:\Users\Llayton Titus\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.AssemblyInfoInputs.cache
+C:\Users\Llayton Titus\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.AssemblyInfo.cs
+C:\Users\Llayton Titus\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Llayton Titus\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csproj.CopyComplete
+C:\Users\Llayton Titus\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.dll
+C:\Users\Llayton Titus\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.pdb
+C:\Users\Llayton Titus\source\repos\ferdisteyn\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.genruntimeconfig.cache
+C:\CODE\Code\CMPG315\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.exe
+C:\CODE\Code\CMPG315\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.deps.json
+C:\CODE\Code\CMPG315\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.runtimeconfig.json
+C:\CODE\Code\CMPG315\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.runtimeconfig.dev.json
+C:\CODE\Code\CMPG315\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.dll
+C:\CODE\Code\CMPG315\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.pdb
+C:\CODE\Code\CMPG315\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\SuperSimpleTcp.dll
+C:\CODE\Code\CMPG315\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csproj.AssemblyReference.cache
+C:\CODE\Code\CMPG315\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.Form1.resources
+C:\CODE\Code\CMPG315\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csproj.GenerateResource.cache
+C:\CODE\Code\CMPG315\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\Code\CMPG315\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.AssemblyInfoInputs.cache
+C:\CODE\Code\CMPG315\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.AssemblyInfo.cs
+C:\CODE\Code\CMPG315\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csproj.CoreCompileInputs.cache
+C:\CODE\Code\CMPG315\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csproj.CopyComplete
+C:\CODE\Code\CMPG315\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.dll
+C:\CODE\Code\CMPG315\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.pdb
+C:\CODE\Code\CMPG315\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.genruntimeconfig.cache
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.exe
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.deps.json
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.runtimeconfig.json
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.runtimeconfig.dev.json
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.dll
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\TCPClient.pdb
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPClient\bin\Debug\netcoreapp3.1\SuperSimpleTcp.dll
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csproj.AssemblyReference.cache
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.Form1.resources
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csproj.GenerateResource.cache
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.AssemblyInfoInputs.cache
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.AssemblyInfo.cs
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csproj.CoreCompileInputs.cache
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.csproj.CopyComplete
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.dll
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.pdb
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPClient\obj\Debug\netcoreapp3.1\TCPClient.genruntimeconfig.cache

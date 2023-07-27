@@ -1,0 +1,120 @@
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.exe
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.deps.json
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.runtimeconfig.json
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.runtimeconfig.dev.json
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.dll
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.pdb
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\SuperSimpleTcp.dll
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.AssemblyReference.cache
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.Form1.resources
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.GenerateResource.cache
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.AssemblyInfoInputs.cache
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.AssemblyInfo.cs
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.CoreCompileInputs.cache
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.CopyComplete
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.dll
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\refint\TCPServer.dll
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.pdb
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.genruntimeconfig.cache
+C:\CODE\Code\Test\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\ref\TCPServer.dll
+C:\Users\vdmer\Downloads\FERDI\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.exe
+C:\Users\vdmer\Downloads\FERDI\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.deps.json
+C:\Users\vdmer\Downloads\FERDI\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.runtimeconfig.json
+C:\Users\vdmer\Downloads\FERDI\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.runtimeconfig.dev.json
+C:\Users\vdmer\Downloads\FERDI\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.dll
+C:\Users\vdmer\Downloads\FERDI\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.pdb
+C:\Users\vdmer\Downloads\FERDI\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\SuperSimpleTcp.dll
+C:\Users\vdmer\Downloads\FERDI\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.AssemblyReference.cache
+C:\Users\vdmer\Downloads\FERDI\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.Form1.resources
+C:\Users\vdmer\Downloads\FERDI\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.GenerateResource.cache
+C:\Users\vdmer\Downloads\FERDI\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdmer\Downloads\FERDI\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.AssemblyInfoInputs.cache
+C:\Users\vdmer\Downloads\FERDI\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.AssemblyInfo.cs
+C:\Users\vdmer\Downloads\FERDI\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\vdmer\Downloads\FERDI\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.CopyComplete
+C:\Users\vdmer\Downloads\FERDI\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.dll
+C:\Users\vdmer\Downloads\FERDI\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\refint\TCPServer.dll
+C:\Users\vdmer\Downloads\FERDI\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.pdb
+C:\Users\vdmer\Downloads\FERDI\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.genruntimeconfig.cache
+C:\Users\vdmer\Downloads\FERDI\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\ref\TCPServer.dll
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.exe
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.deps.json
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.runtimeconfig.json
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.runtimeconfig.dev.json
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.dll
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.pdb
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\SuperSimpleTcp.dll
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.AssemblyReference.cache
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.Form1.resources
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.GenerateResource.cache
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.AssemblyInfoInputs.cache
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.AssemblyInfo.cs
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.CopyComplete
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.dll
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\refint\TCPServer.dll
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.pdb
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.genruntimeconfig.cache
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_client_receives_double_messages_bernard\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\ref\TCPServer.dll
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_v2\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.exe
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_v2\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.deps.json
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_v2\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.runtimeconfig.json
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_v2\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.runtimeconfig.dev.json
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_v2\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.dll
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_v2\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.pdb
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_v2\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\SuperSimpleTcp.dll
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_v2\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.AssemblyReference.cache
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_v2\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.Form1.resources
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_v2\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.GenerateResource.cache
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_v2\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_v2\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.AssemblyInfoInputs.cache
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_v2\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.AssemblyInfo.cs
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_v2\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_v2\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.CopyComplete
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_v2\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.dll
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_v2\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\refint\TCPServer.dll
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_v2\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.pdb
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_v2\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.genruntimeconfig.cache
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp_v2\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\ref\TCPServer.dll
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.exe
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.deps.json
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.runtimeconfig.json
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.runtimeconfig.dev.json
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.dll
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.pdb
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\SuperSimpleTcp.dll
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.AssemblyReference.cache
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.Form1.resources
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.GenerateResource.cache
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.AssemblyInfoInputs.cache
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.AssemblyInfo.cs
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.CopyComplete
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.dll
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\refint\TCPServer.dll
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.pdb
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.genruntimeconfig.cache
+C:\Users\vdmer\Downloads\FERDI WERK\CMPG315_chatapp\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\ref\TCPServer.dll
+C:\CODE\Code\CMPG315\CMPG315_MODIFIEDCHATAPP\CMPG315_chatapp_v8\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.exe
+C:\CODE\Code\CMPG315\CMPG315_MODIFIEDCHATAPP\CMPG315_chatapp_v8\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.deps.json
+C:\CODE\Code\CMPG315\CMPG315_MODIFIEDCHATAPP\CMPG315_chatapp_v8\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.runtimeconfig.json
+C:\CODE\Code\CMPG315\CMPG315_MODIFIEDCHATAPP\CMPG315_chatapp_v8\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.runtimeconfig.dev.json
+C:\CODE\Code\CMPG315\CMPG315_MODIFIEDCHATAPP\CMPG315_chatapp_v8\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.dll
+C:\CODE\Code\CMPG315\CMPG315_MODIFIEDCHATAPP\CMPG315_chatapp_v8\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\TCPServer.pdb
+C:\CODE\Code\CMPG315\CMPG315_MODIFIEDCHATAPP\CMPG315_chatapp_v8\CMPG315_chatapp\TCPClient\TCPServer\bin\Debug\net5.0-windows\SuperSimpleTcp.dll
+C:\CODE\Code\CMPG315\CMPG315_MODIFIEDCHATAPP\CMPG315_chatapp_v8\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.AssemblyReference.cache
+C:\CODE\Code\CMPG315\CMPG315_MODIFIEDCHATAPP\CMPG315_chatapp_v8\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.Form1.resources
+C:\CODE\Code\CMPG315\CMPG315_MODIFIEDCHATAPP\CMPG315_chatapp_v8\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.GenerateResource.cache
+C:\CODE\Code\CMPG315\CMPG315_MODIFIEDCHATAPP\CMPG315_chatapp_v8\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\Code\CMPG315\CMPG315_MODIFIEDCHATAPP\CMPG315_chatapp_v8\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.AssemblyInfoInputs.cache
+C:\CODE\Code\CMPG315\CMPG315_MODIFIEDCHATAPP\CMPG315_chatapp_v8\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.AssemblyInfo.cs
+C:\CODE\Code\CMPG315\CMPG315_MODIFIEDCHATAPP\CMPG315_chatapp_v8\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.CoreCompileInputs.cache
+C:\CODE\Code\CMPG315\CMPG315_MODIFIEDCHATAPP\CMPG315_chatapp_v8\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.csproj.CopyComplete
+C:\CODE\Code\CMPG315\CMPG315_MODIFIEDCHATAPP\CMPG315_chatapp_v8\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.dll
+C:\CODE\Code\CMPG315\CMPG315_MODIFIEDCHATAPP\CMPG315_chatapp_v8\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\refint\TCPServer.dll
+C:\CODE\Code\CMPG315\CMPG315_MODIFIEDCHATAPP\CMPG315_chatapp_v8\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.pdb
+C:\CODE\Code\CMPG315\CMPG315_MODIFIEDCHATAPP\CMPG315_chatapp_v8\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\TCPServer.genruntimeconfig.cache
+C:\CODE\Code\CMPG315\CMPG315_MODIFIEDCHATAPP\CMPG315_chatapp_v8\CMPG315_chatapp\TCPClient\TCPServer\obj\Debug\net5.0-windows\ref\TCPServer.dll
