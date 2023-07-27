@@ -3,4 +3,4 @@ Homework exercise 1 for CMPG323
 Networking_project
 Homework exercise 1 for CMPG323 One of the most intresting project I have ever done, mainly consist of a client application and console server application that together creates a messaging application. The server application is hosted on the cloud(we used google cloud) and with other relevant code which we added, gave the clients the ability to connect to the server via a IP and to send messages to one another. It felt like I wrote whatsapp when we were done with this group project :D
 Unfortunately I do not have the final server console but I do have the client. The problem we mainly solved is to be able to chat over the internet without using a large corporations software. This is because of many applications stealing personal data and not being effical in the way they handle data. I mainly worked on the tcp/ip methods and UI. We struggled a lot with the console server application but did a lot of googling which at the end of the day gave us a working demo. Thie problem mentioned above was solved with a collaboritive-solving technique.
-DEVELOPMENT
+PRODUCTION
